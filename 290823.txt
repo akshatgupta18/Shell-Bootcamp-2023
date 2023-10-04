@@ -1,0 +1,11 @@
+29/08/23
+
+1. Data warehousing
+2. data modelling
+3. normalisation and denormalisation
+4. er model and case study on er diagram
+5. dimensional modelling (star and snowflake)
+6. data and database (dbms)
+7. case study on normalisation
+8. SCD
+9. 

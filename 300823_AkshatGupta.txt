@@ -1,0 +1,8 @@
+Big Data
+4 V's of big data
+Data warehouse
+Data lake
+Data lakehouse
+Difference between data lake, warehouse and lakehouse
+Creating a VM
+Cloud computing concepts
